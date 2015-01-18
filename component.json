@@ -7,7 +7,7 @@
     "component",
     "cloud"
   ],
-  "version": "1.0.5",
+  "version": "v1.0.5",
   "main": "d3.layout.cloud.js",
   "scripts": [
     "d3.layout.cloud.js"
